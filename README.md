@@ -10,7 +10,7 @@ fs-mumblerecoding made by ⸸♱♥IDK_FORCE♥♱⸸#7611
 ## How It Works
 
 This Is A Wide ServerSide VoiceChat Spy To Find Cheaters,Racists,DramaQueens,Erps,People
-With Bad Microphones, Mind You Use This At Your Own Risk Sometimes Players Talk Sh*t About Staff/Devs/Server/OtherPlayers This Can Cause A Bunch Of Drama If You Have A Bunch Of DramaQueen Staff Mind You This Can Be Sometimes Wrong Make Sure You Hear The Right Thing Instead Of Baning
+With Bad Microphones, Mind You Use This At Your Own Risk Sometimes Players Talk Sh*t About Staff/Devs/Server/OtherPlayers This Can Cause A Bunch Of Drama If You Have A Bunch Of DramaQueen Staff Mind You This Can Be Sometimes Wrong Make Sure You Hear The Right Thing Instead Of Banning
 
 ## How To Install It
 
