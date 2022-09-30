@@ -22,7 +22,7 @@ RconPassword = 'False'
 # This Webhook Will Log Anything In BadWords. Replace To False To Disable Webhook.
 BadWebhook = ""
 
-# This Webhook Will Log Anything That Is Not In BadWords. Replace To False To Disable Webhook.
+# This Webhook Will Log Anything That Is Not In BadWords. Leave blank to disable.
 GoodWebhook = ''
 
 # Local path to save audio. Replace To False To Disable Webhook.
